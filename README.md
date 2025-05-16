@@ -26,7 +26,7 @@ Each flower has four features:
 - Seaborn
 - Jupyter Notebook
 - scikit-learn (for loading the dataset)
-- 
+  
 ## Task 1: Data Loading and Exploration
 - Loaded the Iris dataset
 - Displayed first few rows
